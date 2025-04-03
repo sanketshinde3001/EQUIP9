@@ -48,4 +48,21 @@ const requiredEquipment = "excavator";
 
 ## 3. Maintenance Log Analysis (Segment Tree or Fenwick Tree)
 
+### inputs
+```
+const maintenanceLogs = [
+    [101, "2024-01-01", 500],
+    [102, "2024-01-10", 300],
+    [101, "2024-01-15", 700]
+];
+
+const queryIntervals = [
+    ["2024-01-01", "2024-01-10"],
+    ["2024-01-01", "2024-01-15"]
+];
+```
+
+### Output SS
+
+![image](https://github.com/user-attachments/assets/15c93916-1896-4188-bef3-139958c4024e)
 
