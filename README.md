@@ -1,4 +1,4 @@
-# 1. Equipment Rental Availability (Graph Algorithm – BFS/DFS)
+## 1. Equipment Rental Availability (Graph Algorithm – BFS/DFS)
 
 ### Inputs
 
@@ -20,7 +20,7 @@ const requiredEquipment = "excavator";
 ![image](https://github.com/user-attachments/assets/4296f297-f93a-4bd8-805e-d9a5119d45b3)
 
 
-# 2. Optimal Equipment Deal Matching (Heap/Priority Queue)
+## 2. Optimal Equipment Deal Matching (Heap/Priority Queue)
 
 ### Inputs
 ```
@@ -45,3 +45,7 @@ const requiredEquipment = "excavator";
 
 ### Output SS
 ![image](https://github.com/user-attachments/assets/5816dcc9-a9f9-4f42-b014-dd1d99b4af53)
+
+## 3. Maintenance Log Analysis (Segment Tree or Fenwick Tree)
+
+
